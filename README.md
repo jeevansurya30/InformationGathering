@@ -1,4 +1,4 @@
-![3](https://github.com/user-attachments/assets/d773617b-dc9c-417e-9473-495d99d5845b)# InformationGathering
+
 Information Gathering Techiques
 
 # To perform information gathering techniques
